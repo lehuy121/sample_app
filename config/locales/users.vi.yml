@@ -1,5 +1,11 @@
 vi:
   users:
     new:
-      welcome: "Xin chào đây là trang User"
-      link: "Tìm tôi theo đường dẫn app/views/users/new.html.erb"
+      title: "Đăng ký"
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      confirm: "Nhập lại mật khẩu"
+      create: "Tạo mới tài khoản"
+    welcome: "Chào mừng đến với ứng dụng mẫu"
+    user_not_found: "Không tìm thấy thông tin người dùng"

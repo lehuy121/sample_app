@@ -1,5 +1,11 @@
 en:
   users:
     new:
-      welcome: "Welcome to User page"
-      link: "Find me in app/views/users/new.html.erb"
+      title: "Sign up"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      confirm: "Confirmation password"
+      create: "Create my account"
+    welcome: "Welcome to the Sample App!"
+    user_not_found: "User not found"
