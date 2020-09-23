@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= I18n.t(".title") %></title>
+    <title><%= yield(:title) %> | <%= t(".base") %></title>
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -10,6 +10,9 @@
   </head>
 
   <body>
+    <%= link_to t(".english"), locale: :en %>
+    <%= link_to t(".vietnamese"), locale: :vi %>
+
     <%= yield %>
   </body>
 </html>

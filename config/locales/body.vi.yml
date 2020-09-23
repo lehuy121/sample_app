@@ -1,0 +1,33 @@
+vi:
+  layouts:
+    application:
+      english: "Tiếng Anh"
+      vietnamese: "Tiếng Việt"
+  static_pages:
+    home:
+      header_msg: "Ứng dụng mẫu"
+      description_first: "Đây là trang chủ của"
+      link_ruby_on_rails: "Ruby on Rails Tutorial"
+      description_after_link: "ứng dụng mẫu."
+    help:
+      header_msg_html: "<h1>Trợ giúp</h1>"
+      content1: "Nhận giúp đỡ về Ruby on Rails Tutorial tại"
+      link_help: "Rails Tutorial Help"
+      content2: "Nhận giúp đỡ về ứng mẫu này, xem tại"
+      link_book: "Ruby on Rails Tutorial"
+    about:
+      header_msg_html: "<h1>Giới thiệu</h1>"
+      the: "Hướng dẫn về"
+      ruby_on_rails_tutorial: "Ruby on Rails"
+      part_of_the: "một phần của"
+      learn_enough: "Learn Enough"
+      family_of_tutorials: "family of tutorials, là"
+      book: "sách"
+      and: "và"
+      screencast_series: "screencast series"
+      to_teach_web_development_with: "để dạy phát triển web với"
+      sample_app_tutorial: "Đây là ứng dụng mẫu cho hướng dẫn"
+    contact:
+      header_msg_html: "<h1>Liên hệ</h1>"
+      content: "Liên hệ về hướng dẫn Ruby on Rails của ứng dụng mẫu tại"
+      contact_page_link: "trang liên hệ"
