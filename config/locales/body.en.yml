@@ -10,6 +10,7 @@ en:
       link_ruby_on_rails: "Ruby on Rails Tutorial"
       description_after_link: "sample application."
       sign_up_now: "Sign up now!"
+      micropost_feed: "Micropost Feed"
     help:
       header_msg_html: "<h1>Help</h1>"
       content1: "Get help on the Ruby on Rails Tutorial at the"

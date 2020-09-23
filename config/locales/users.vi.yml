@@ -15,6 +15,7 @@ vi:
       profile_updated: "Hồ sơ cập nhật thành công"
     show:
       please_log_in: "Vui lòng đăng nhập."
+      microposts: "Bài viết đã đăng"
     index:
       all_users: "Tất cả người dùng"
       please_log_in: "Vui lòng đăng nhập."

@@ -5,4 +5,5 @@
 <p>Welcome to the Sample App!
   Click on the link below to activate your account:
 </p>
+
 <%= link_to "Activate", edit_account_activation_url(locale, id: @user.activation_token, email: @user.email) %>

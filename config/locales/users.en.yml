@@ -15,6 +15,7 @@ en:
       profile_updated: "Profile updated"
     show:
       please_log_in: "Please log in."
+      microposts: "Microposts"
     index:
       all_users: "All users"
       please_log_in: "Please log in."

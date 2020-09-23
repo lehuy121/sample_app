@@ -1,0 +1,28 @@
+en:
+  activerecord:
+    errors:
+      models:
+        micropost:
+          attributes:
+            image:
+              invalid_image_format: "must be a valid image format"
+              should_be_less_than: "should be less than 5MB"
+  shared:
+    micropost_form:
+      compose_new_micropost: "Compose new micropost..."
+      post: "Post"
+      maximum_file_size_alert: "Maximum file size is 5MB. Please choose a smaller file."
+    user_info:
+      view_my_profile: "view my profile"
+      micropost: "micropost"
+  microposts:
+    micropost:
+      delete: "delete"
+      you_sure: "You sure?"
+      posted: "Posted %{time} ago"
+    create:
+      micropost_created: "Micropost created!"
+    destroy:
+      micropost_deleted: "Micropost deleted!"
+      micropost_deleted_fail: "Can't delete micropost"
+      not_found_micropost: "Micropost not found"

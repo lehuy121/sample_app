@@ -1,0 +1,28 @@
+vi:
+  activerecord:
+    errors:
+      models:
+        micropost:
+          attributes:
+            image:
+              invalid_image_format: "Định dạng không hợp lệ"
+              should_be_less_than: "Kích thước ảnh phải nhỏ hơn 5MB"
+  shared:
+    micropost_form:
+      compose_new_micropost: "Bài viết mới"
+      post: "Đăng bài viết"
+      maximum_file_size_alert: "Kích thước tệp tối đa 5MB. Vui lòng chọn tệp có kích thuớc nhỏ hơn"
+    user_info:
+      view_my_profile: "xem hồ sơ của tôi"
+      micropost: "bài viết"
+  microposts:
+    micropost:
+      delete: "xóa"
+      you_sure: "Bạn có chắc không?"
+      posted: "Bài viết đã đăng %{time} trước"
+    create:
+      micropost_created: "Đăng bài viết thành công!"
+    destroy:
+      micropost_deleted: "Xóa bài viết thành công!"
+      micropost_deleted_fail: "Không thể xóa bài viết"
+      not_found_micropost: "Không tìm thấy bài viết"

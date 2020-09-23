@@ -10,6 +10,7 @@ vi:
       link_ruby_on_rails: "Ruby on Rails Tutorial"
       description_after_link: "ứng dụng mẫu."
       sign_up_now: "Đăng ký ngay!"
+      micropost_feed: "Các bài viết đã đăng"
     help:
       header_msg_html: "<h1>Trợ giúp</h1>"
       content1: "Nhận giúp đỡ về Ruby on Rails Tutorial tại"

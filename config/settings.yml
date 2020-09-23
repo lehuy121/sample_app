@@ -4,3 +4,4 @@ validate_value:
   min_password: 6
 gravatar_size : 80
 reset_pass_expired_time: 2
+user_info_gravatar_size: 50

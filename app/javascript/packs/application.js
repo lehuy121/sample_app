@@ -7,8 +7,18 @@ require("@rails/ujs").start()
 require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
-require ("jquery")
-require ("bootstrap")
+require("jquery")
+require("bootstrap")
+
+window.jQuery = window.$ = require('jquery')
+
+var Turbolinks = require("turbolinks");
+Turbolinks.start();
+
+import I18n from 'i18n-js'
+window.I18n = I18n
+
+require("packs/upload_image")
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
