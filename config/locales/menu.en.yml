@@ -1,0 +1,9 @@
+en:
+  layouts:
+    header:
+      sample_app: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Login"
+      english: "English"
+      vietnamese: "Vietnamese"

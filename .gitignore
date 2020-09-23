@@ -18,6 +18,8 @@ config/database.yml
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+.framgia-ci-reports/
+.framgia-ci-result.temp.yml
 
 # Ignore pidfiles, but keep the directory.
 /tmp/pids/*
