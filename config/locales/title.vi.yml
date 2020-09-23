@@ -1,0 +1,13 @@
+vi:
+  layouts:
+    application:
+      base: "Ứng dụng mẫu hướng dẫn Ruby on Rails"
+  static_pages:
+    home:
+      home: "Trang chủ"
+    help:
+      help: "Trợ giúp"
+    about:
+      about: "Giới thiệu"
+    contact:
+      contact: "Liên hệ"
