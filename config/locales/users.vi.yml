@@ -2,10 +2,25 @@ vi:
   users:
     new:
       title: "Đăng ký"
+      create: "Tạo mới tài khoản"
+    form:
+      title: "Đăng ký"
       name: "Tên"
       email: "Email"
       password: "Mật khẩu"
       confirm: "Nhập lại mật khẩu"
-      create: "Tạo mới tài khoản"
     welcome: "Chào mừng đến với ứng dụng mẫu"
     user_not_found: "Không tìm thấy thông tin người dùng"
+    update:
+      profile_updated: "Hồ sơ cập nhật thành công"
+    show:
+      please_log_in: "Vui lòng đăng nhập."
+    index:
+      all_users: "Tất cả người dùng"
+      please_log_in: "Vui lòng đăng nhập."
+    user:
+      you_sure: "Bạn có chắc không?"
+      delete: "xóa"
+    destroy:
+      user_deleted: "Người dùng đã được xóa"
+      can_not_delete: "Không thể xóa người dùng này"

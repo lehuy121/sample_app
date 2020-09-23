@@ -1,0 +1,7 @@
+vi:
+  users:
+    edit:
+      edit_user: "Chỉnh sửa người dùng"
+      update_your_profile: "Cập nhật hồ sơ của bạn"
+      save_changes: "Lưu thay đổi"
+      change: "thay đổi"

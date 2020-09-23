@@ -2,10 +2,25 @@ en:
   users:
     new:
       title: "Sign up"
+      create: "Create my account"
+    form:
+      title: "Sign up"
       name: "Name"
       email: "Email"
       password: "Password"
       confirm: "Confirmation password"
-      create: "Create my account"
     welcome: "Welcome to the Sample App!"
     user_not_found: "User not found"
+    update:
+      profile_updated: "Profile updated"
+    show:
+      please_log_in: "Please log in."
+    index:
+      all_users: "All users"
+      please_log_in: "Please log in."
+    user:
+      you_sure: "You sure?"
+      delete: "delete"
+    destroy:
+      user_deleted: "User deleted"
+      can_not_delete: "Can not delete user"
