@@ -8,5 +8,6 @@ vi:
       email: "Thư điện tử"
       password: "Mật khẩu"
       remember_me: "Lưu trạng thái đăng nhập"
+      forgot_password: "(quên mật khẩu)"
     create:
       not_activated: "Tài khoản chưa kích hoạt. Kiểm tra thư điện tử của bạn để kích hoạt."
