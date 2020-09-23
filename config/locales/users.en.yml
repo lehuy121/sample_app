@@ -24,3 +24,9 @@ en:
     destroy:
       user_deleted: "User deleted"
       can_not_delete: "Can not delete user"
+    create:
+      check_email_activate_account: "Please check your email to activate your account."
+  account_activations:
+    edit:
+      account_activated: "Account activated!"
+      invalid_activation_link: "Invalid activation link"

@@ -24,3 +24,9 @@ vi:
     destroy:
       user_deleted: "Người dùng đã được xóa"
       can_not_delete: "Không thể xóa người dùng này"
+    create:
+      check_email_activate_account: "Kiểm tra thư điện tử của bạn để kích hoạt tài khoản"
+  account_activations:
+    edit:
+      account_activated: "Tài khoản đã được kích hoạt"
+      invalid_activation_link: "Sai đường dẫn kích hoạt tài khoản"
