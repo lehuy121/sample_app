@@ -1,0 +1,9 @@
+vi:
+  sessions:
+    invalid_mesg: "Địa chỉ email/pasword không đúng"
+    new:
+      sign_up_now: "Đăng ký ngay!"
+      log_in: "Đăng nhập"
+      new_user: "Người dùng mới?"
+      email: "Thư điện tử"
+      password: "Mật khẩu"

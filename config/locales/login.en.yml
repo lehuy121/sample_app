@@ -1,0 +1,9 @@
+en:
+  sessions:
+    invalid_mesg: "Invalid email/password combination"
+    new:
+      sign_up_now: "Sign up now!"
+      log_in: "Log in"
+      new_user: "New user?"
+      email: "Email"
+      password: "Password"
