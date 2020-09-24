@@ -5,10 +5,11 @@ vi:
       vietnamese: "Tiếng Việt"
   static_pages:
     home:
-      header_msg: "Ứng dụng mẫu"
+      welcome_msg: "Chào mừng đến với ứng dụng mẫu"
       description_first: "Đây là trang chủ của"
       link_ruby_on_rails: "Ruby on Rails Tutorial"
       description_after_link: "ứng dụng mẫu."
+      sign_up_now: "Đăng ký ngay!"
     help:
       header_msg_html: "<h1>Trợ giúp</h1>"
       content1: "Nhận giúp đỡ về Ruby on Rails Tutorial tại"

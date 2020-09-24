@@ -5,10 +5,11 @@ en:
       vietnamese: "Vietnamese"
   static_pages:
     home:
-      header_msg: "Sample App"
+      welcome_msg: "Welcome to the Sample App"
       description_first: "This is the home page for the"
       link_ruby_on_rails: "Ruby on Rails Tutorial"
       description_after_link: "sample application."
+      sign_up_now: "Sign up now!"
     help:
       header_msg_html: "<h1>Help</h1>"
       content1: "Get help on the Ruby on Rails Tutorial at the"
@@ -32,5 +33,3 @@ en:
       header_msg_html: "<h1>Contact</h1>"
       content: "Contact the Ruby on Rails Tutorial about the sample app at the"
       contact_page_link: "contact page"
-
-

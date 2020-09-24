@@ -1,0 +1,9 @@
+vi:
+  layouts:
+    header:
+      sample_app: "ứng dụng mẫu"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+      english: "Tiếng Anh"
+      vietnamese: "Tiếng Việt"

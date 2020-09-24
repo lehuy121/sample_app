@@ -1,7 +1,14 @@
 <% provide(:title, t(".home")) %>
 
-<h1><%= t(".header_msg") %></h1>
-<p><%= t(".description_first") %>
-  <%= link_to t(".link_ruby_on_rails"), "https://www.railstutorial.org/" %>
-  <%= t(".description_after_link") %>
-</p>
+<div class="center jumbotron">
+  <h1><%= t(".welcome_msg") %></h1>
+
+  <h2>
+    <p><%= t(".description_first") %>
+      <%= link_to t(".link_ruby_on_rails"), "https://www.railstutorial.org/" %>
+      <%= t(".description_after_link") %>
+    </p>
+  </h2>
+
+  <%= link_to t(".sign_up_now"), "#", class: "btn btn-lg btn-primary" %>
+</div>
