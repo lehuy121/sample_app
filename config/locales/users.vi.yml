@@ -1,0 +1,5 @@
+vi:
+  users:
+    new:
+      welcome: "Xin chào đây là trang User"
+      link: "Tìm tôi theo đường dẫn app/views/users/new.html.erb"
