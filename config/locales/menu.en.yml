@@ -7,3 +7,8 @@ en:
       login: "Login"
       english: "English"
       vietnamese: "Vietnamese"
+      account: "Account"
+      users: "Users"
+      log_out: "Log out"
+      profile: "Profile"
+      settings: "Settings"
