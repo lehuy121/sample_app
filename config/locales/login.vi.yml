@@ -7,3 +7,4 @@ vi:
       new_user: "Người dùng mới?"
       email: "Thư điện tử"
       password: "Mật khẩu"
+      remember_me: "Lưu trạng thái đăng nhập"
