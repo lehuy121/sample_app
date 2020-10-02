@@ -8,3 +8,5 @@ en:
       email: "Email"
       password: "Password"
       remember_me: "Remember me on this computer"
+    create:
+      not_activated: "Account not activated. Check your email for the activation link."
